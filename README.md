@@ -4,14 +4,14 @@ This is a Todo List API built with Deno and Oak framework. It provides CRUD oper
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 Ensure you have Deno installed. You can install Deno by following the instructions on [Deno's official website](https://deno.com/).
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/deno-api.git
+  git clone https://github.com/florian-catalin-elisei/deno-api.git
 ```
 
 2. Navigate to the project directory:
